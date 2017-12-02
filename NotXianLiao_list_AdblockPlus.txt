@@ -4,7 +4,6 @@
 ! Title: NotXianLiao
 ! Expires: 14 days
 ! Homepage: https://github.com/wbxteam/NotXianLiao
-！By wbx
 ##.frame xianliao_component react-draggable
 ##.xianliao_component frame announcement_frame
 ||www.xianliao.me
