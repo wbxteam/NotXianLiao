@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Checksum: XEkdtCSOBZqsGUREArU+Ag
+! Version: 2017120101
+! Title: NotXianLiao
+! Expires: 14 days
+! Homepage: https://github.com/wbxteam/NotXianLiao
+##.frame xianliao_component react-draggable
+##.xianliao_component frame announcement_frame
+||www.xianliao.me
+||xianliao.me
+||www.xianliao.me/h/*
+||cdn.xianliao.me
+||*.xianliao.me
