@@ -1,0 +1,7 @@
+##.frame xianliao_component react-draggable
+##.xianliao_component frame announcement_frame
+||www.xianliao.me
+||xianliao.me
+||www.xianliao.me/h/*
+||cdn.xianliao.me
+||*.xianliao.me
